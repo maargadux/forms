@@ -1,1 +1,1 @@
-# forms
+Aplicação em Java desenvolvida para praticar conceitos fundamentais de programação, incluindo entrada de dados, operações aritméticas e estruturas condicionais.  O sistema recebe dois números inteiros, realiza a soma e verifica se o resultado é par ou ímpar.  Projeto simples, direto e focado na construção de uma base sólida em desenvolvimento backend.
